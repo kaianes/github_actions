@@ -1,0 +1,13 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "aula de programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test running...\"",
+    "build": "echo \"Build running...\"",
+    "deploy": "echo \"Deploy running...\""
+  },
+  "author": "kaiane",
+  "license": "ISC"
+}

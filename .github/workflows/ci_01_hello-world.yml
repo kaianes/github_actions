@@ -1,0 +1,13 @@
+name: Hello World Workflow
+
+on: [push]
+
+jobs:
+    say_hello:
+        runs-on: ubuntu-latest
+
+        steps:
+        - uses: actions/checkout@v2
+
+        - name: Hello world
+          run: echo "Teste git hub actions"
