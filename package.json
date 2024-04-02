@@ -4,7 +4,7 @@
   "description": "aula de programação",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Test running...\"",
+    "test": "jest",
     "build": "echo \"Build running...\"",
     "deploy": "echo \"Deploy running...\""
   },
